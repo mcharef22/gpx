@@ -7,18 +7,43 @@
         <text>Mindful house</text>
       </link>
     </metadata>
+    <!-- Points de départ -->
+    
             <wpt lat="48.08634486255402" lon="-0.16446973266601939" id="depart" id-marker="1730129488516">
+              
               <title><![CDATA[Point de départ]]></title>
               <checkAudio><![CDATA[null]]></checkAudio>
             </wpt>
+        
+
+      <!-- Points de destination -->
+      
               <wpt lat="47.865704209557414" lon="0.1431474548340006" id="destination" id-marker="1730129490957">
+                
                 <title><![CDATA[Point de destination]]></title>
                 <checkAudio><![CDATA[null]]></checkAudio>
               </wpt>
+          
+    <!-- Points de Navigation -->
+    
+        
+      <!-- Points d'intérêts touristiques -->
+      
             <wpt lat="48.00443707734428" lon="0.031841410369901624" id="touristic" id-marker="1730129493852">
+            
               <title><![CDATA[PI touristique]]></title>
               <distance><![CDATA[-1]]></distance>
               <checkAudio><![CDATA[true]]></checkAudio>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
               <mainResource><![CDATA[undefined]]></mainResource>
               <checkAcces><![CDATA[Gratuit]]></checkAcces>
               <triggerType><![CDATA[Manuel]]></triggerType>
@@ -28,7 +53,21 @@
               undefined
               undefined
             </wpt>
+          
+      
+
+      <!-- Points d'intérêts Quiz -->
+      
+      
+
+      <!-- Points d'interêt de structure -->
+      
+      
+
+      <!--Points d'information-->
       ,,
+
+    <!--Trace-->
     <trk>
         <name><![CDATA[CIRCUIT sss]]></name>
         <desc><![CDATA[]]></desc>
@@ -41,6 +80,7 @@
             </om:oruxmapsextensions>
         </extensions>
         <trkseg>
+        <!-- Liste de points du circuit -->
         <trkpt
             lat="48.08634486255402"
             lon="-0.16446973266601939"
@@ -384,6 +424,7 @@
                 ,<trkpt lat="47.864430000000006" lon="0.13970000000000002"></trkpt>
                 ,<trkpt lat="47.864200000000004" lon="0.14213"></trkpt>
                 ,<trkpt lat="47.86459000000001" lon="0.14388"></trkpt>
+                
         <trkpt
             lat="47.865704209557414"
             lon="0.1431474548340006"
