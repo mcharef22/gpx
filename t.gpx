@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+  <gpx creator="Mindful house" version="1.0">
+    <metadata>
+      <name><![CDATA[CIRCUIT t]]></name>
+      <type><![CDATA[Voiture]]></type>
+      <link href="https://mindful-house.net/">
+        <text>Mindful house</text>
+      </link>
+    </metadata>
+    <!-- Points de départ -->
+    
+            <wpt lat="48.00338064061862" lon="0.1862743496653252" id="depart" id-marker="1730200136269">
+              
+              <title><![CDATA[Point de départ]]></title>
+              <checkAudio><![CDATA[null]]></checkAudio>
+            </wpt>
+        
+
+      <!-- Points de destination -->
+      
+              <wpt lat="48.00482350338611" lon="0.18770128486124804" id="destination" id-marker="1730200139138">
+                
+                <title><![CDATA[Point de destination]]></title>
+                <checkAudio><![CDATA[null]]></checkAudio>
+              </wpt>
+          
+    <!-- Points de Navigation -->
+    
+                  <wpt lat="48.0039744839043" lon="0.18692573186574357" id="step">
+                  </wpt>
+              
+        
+      <!-- Points d'intérêts touristiques -->
+      
+      
+
+      <!-- Points d'intérêts Quiz -->
+      
+      
+
+      <!-- Points d'interêt de structure -->
+      
+      
+
+      <!--Points d'information-->
+      ,,
+
+    <!--Trace-->
+    <trk>
+        <name><![CDATA[CIRCUIT t]]></name>
+        <desc><![CDATA[]]></desc>
+        <type>Indéfini</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+                <om:ext type="TYPE" subtype="0">0</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+                <om:ext type="COLOR">#0000FF</om:ext>
+            </om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+        <!-- Liste de points du circuit -->
+        <trkpt
+            lat="48.00338064061862"
+            lon="0.1862743496653252"
+        ></trkpt>
+        <trkpt lat="48.003400000000006" lon="0.18623"></trkpt>
+                ,<trkpt lat="48.00377" lon="0.18659"></trkpt>
+                ,<trkpt lat="48.00426" lon="0.18713000000000002"></trkpt>
+                ,<trkpt lat="48.004810000000006" lon="0.18773"></trkpt>
+                
+        <trkpt
+            lat="48.00482350338611"
+            lon="0.18770128486124804"
+        ></trkpt>
+        </trkseg>
+        </trk>
+        </gpx>
