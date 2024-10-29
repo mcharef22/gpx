@@ -18,7 +18,7 @@
 
       <!-- Points de destination -->
       
-              <wpt lat="47.795272695565814" lon="-0.04042087939717609" id="destination" id-marker="1730200362182">
+              <wpt lat="47.79574117678216" lon="-0.040227760348103825" id="destination" id-marker="1730200362182">
                 
                 <title><![CDATA[Point de destination]]></title>
                 <checkAudio><![CDATA[null]]></checkAudio>
@@ -69,11 +69,12 @@
                 ,<trkpt lat="47.794920000000005" lon="-0.040760000000000005"></trkpt>
                 ,<trkpt lat="47.795030000000004" lon="-0.040600000000000004"></trkpt>
                 ,<trkpt lat="47.79511" lon="-0.040510000000000004"></trkpt>
-                ,<trkpt lat="47.79527" lon="-0.040420000000000005"></trkpt>
+                ,<trkpt lat="47.79529" lon="-0.04041"></trkpt>
+                ,<trkpt lat="47.795750000000005" lon="-0.04032"></trkpt>
                 
         <trkpt
-            lat="47.795272695565814"
-            lon="-0.04042087939717609"
+            lat="47.79574117678216"
+            lon="-0.040227760348103825"
         ></trkpt>
         </trkseg>
         </trk>
