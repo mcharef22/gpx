@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+  <gpx creator="Mindful house" version="1.0">
+    <metadata>
+      <name><![CDATA[CIRCUIT c]]></name>
+      <type><![CDATA[Voiture]]></type>
+      <link href="https://mindful-house.net/">
+        <text>Mindful house</text>
+      </link>
+    </metadata>
+    <!-- Points de départ -->
+    
+            <wpt lat="47.79374109288223" lon="-0.041799534830830876" id="depart" id-marker="1730200357569">
+              
+              <title><![CDATA[Point de départ]]></title>
+              <checkAudio><![CDATA[null]]></checkAudio>
+            </wpt>
+        
+
+      <!-- Points de destination -->
+      
+              <wpt lat="47.795272695565814" lon="-0.04042087939717609" id="destination" id-marker="1730200362182">
+                
+                <title><![CDATA[Point de destination]]></title>
+                <checkAudio><![CDATA[null]]></checkAudio>
+              </wpt>
+          
+    <!-- Points de Navigation -->
+    
+        
+      <!-- Points d'intérêts touristiques -->
+      
+      
+
+      <!-- Points d'intérêts Quiz -->
+      
+      
+
+      <!-- Points d'interêt de structure -->
+      
+      
+
+      <!--Points d'information-->
+      ,
+
+    <!--Trace-->
+    <trk>
+        <name><![CDATA[CIRCUIT c]]></name>
+        <desc><![CDATA[]]></desc>
+        <type>Indéfini</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+                <om:ext type="TYPE" subtype="0">0</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+                <om:ext type="COLOR">#0000FF</om:ext>
+            </om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+        <!-- Liste de points du circuit -->
+        <trkpt
+            lat="47.79374109288223"
+            lon="-0.041799534830830876"
+        ></trkpt>
+        <trkpt lat="47.79374000000001" lon="-0.041800000000000004"></trkpt>
+                ,<trkpt lat="47.79401000000001" lon="-0.04172"></trkpt>
+                ,<trkpt lat="47.794380000000004" lon="-0.041580000000000006"></trkpt>
+                ,<trkpt lat="47.79451" lon="-0.041460000000000004"></trkpt>
+                ,<trkpt lat="47.794650000000004" lon="-0.041280000000000004"></trkpt>
+                ,<trkpt lat="47.79475" lon="-0.04111"></trkpt>
+                ,<trkpt lat="47.794920000000005" lon="-0.040760000000000005"></trkpt>
+                ,<trkpt lat="47.795030000000004" lon="-0.040600000000000004"></trkpt>
+                ,<trkpt lat="47.79511" lon="-0.040510000000000004"></trkpt>
+                ,<trkpt lat="47.79527" lon="-0.040420000000000005"></trkpt>
+                
+        <trkpt
+            lat="47.795272695565814"
+            lon="-0.04042087939717609"
+        ></trkpt>
+        </trkseg>
+        </trk>
+        </gpx>
