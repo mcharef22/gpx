@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+  <gpx creator="Mindful house" version="1.0">
+    <metadata>
+      <name><![CDATA[CIRCUIT Bass]]></name>
+      <type><![CDATA[Voiture]]></type>
+      <link href="https://mindful-house.net/">
+        <text>Mindful house</text>
+      </link>
+    </metadata>
+    <!-- Points de départ -->
+    
+
+      <!-- Points de destination -->
+      
+    <!-- Points de Navigation -->
+    
+        
+      <!-- Points d'intérêts touristiques -->
+      
+      
+
+      <!-- Points d'intérêts Quiz -->
+      
+      
+
+      <!-- Points d'interêt de structure -->
+      
+      
+
+      <!--Points d'information-->
+      
+
+    <!--Trace-->
+    <trk>
+        <name><![CDATA[CIRCUIT Bass]]></name>
+        <desc><![CDATA[]]></desc>
+        <type>Indéfini</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+                <om:ext type="TYPE" subtype="0">0</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+                <om:ext type="COLOR">#0000FF</om:ext>
+            </om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+        <!-- Liste de points du circuit -->
+        <trkpt
+            lat="undefined"
+            lon="undefined"
+        ></trkpt>
+        
+        <trkpt
+            lat="undefined"
+            lon="undefined"
+        ></trkpt>
+        </trkseg>
+        </trk>
+        </gpx>
